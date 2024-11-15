@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+# NAME : PRASHANTH.K
+# REGISTER NUMBER : 212223230152
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
